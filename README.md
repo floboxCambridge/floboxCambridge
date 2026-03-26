@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Florent
 
-<!--
-**floboxCambridge/floboxCambridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 PhD Student
+📍 Based in Cambridge, UK
+🔬 Working around research on *rhythmic reactive sensing for robotic locomotion*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I’m an electrical engineering student with a strong interest in building systems that connect theory to real-world applications.
+
+My current focus is inspired by research in:
+
+* 🤖 Robotic locomotion
+* ⚡ Reactive sensing systems
+* Neuromorphic engineering
+* 🔁 Rhythmic and adaptive control
+
+I enjoy understanding how complex systems behave — from circuits to intelligent machines.
+
+---
+
+## 🛠️ Tech & Tools
+
+* Languages: `Python`, `C/C++`, `MATLAB`
+* Areas:
+
+  * Embedded systems
+  * Control systems
+  * Signal processing
+  * Robotics
+  * Neuromophic signal processing
+
+---
+
+👉 Check my repositories for more
+
+---
+
+## 📫 Contact
+
+* GitHub: https://github.com/YOUR_USERNAME
+* LinkedIn: (optional)
+
+---
+
+## ⚡ Focus
+
+Currently exploring how sensing and control interact in dynamic environments, especially in robotics and locomotion.
+
