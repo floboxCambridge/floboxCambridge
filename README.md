@@ -12,16 +12,16 @@ I’m an electrical engineering student with a strong interest in building syste
 
 My current focus is inspired by research in:
 
-* 🤖 Robotic locomotion
-* ⚡ Reactive sensing systems
+* Robotic locomotion
+* Reactive sensing systems
 * Neuromorphic engineering
-* 🔁 Rhythmic and adaptive control
+* Rhythmic and adaptive control
 
 I enjoy understanding how complex systems behave — from circuits to intelligent machines.
 
 ---
 
-## 🛠️ Tech & Tools
+##  Tech & Tools
 
 * Languages: `Python`, `C/C++`, `MATLAB`
 * Areas:
@@ -32,20 +32,14 @@ I enjoy understanding how complex systems behave — from circuits to intelligen
   * Robotics
   * Neuromophic signal processing
 
----
 
-👉 Check my repositories for more
 
 ---
 
 ## 📫 Contact
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: (optional)
+* GitHub: https://github.com/floboxCambridge
 
----
 
-## ⚡ Focus
 
-Currently exploring how sensing and control interact in dynamic environments, especially in robotics and locomotion.
 
